@@ -13,15 +13,15 @@
 			<li>The virtual keyboard has been enhanced</li>
 			<li>Windows Hello
 				<ul>
-					<li>Support for loging in with face recognition</li>
-					<li>Support for loging in with fingerprints</li>
-					<li>Support for loging in with eye scan</li>
+					<li>Support for logging in with face recognition</li>
+					<li>Support for logging in with fingerprints</li>
+					<li>Support for logging in with eye scan</li>
 					<li>"Passport" will replace passwords</li>
 				</ul>
 			</li>
-			<li>Build in ssa-subtitle support</li>
-			<li>Build in ass-subtitle support</li>
-			<li>Build in srt-subtitle support</li>
+			<li>Built in ssa-subtitle support</li>
+			<li>Built in ass-subtitle support</li>
+			<li>Built in srt-subtitle support</li>
 		</ul>
 		<h3>WinRT</h3>
 		<ul>
@@ -45,9 +45,10 @@
 					<li>CSS
 						<ul>
 							<li>Cross-Domain Font Loading</li>
+							<li>CSS 'initial' and 'unset' value</li>
 						</ul>
 					</li>
-					<li>JavaScript
+					<li>JavaScript</li>
 						<ul>
 							<li>Default parameter</li>
 							<li>Generators</li>
