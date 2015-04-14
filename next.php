@@ -48,7 +48,7 @@
 							<li>CSS 'initial' and 'unset' value</li>
 						</ul>
 					</li>
-					<li>JavaScript</li>
+					<li>JavaScript
 						<ul>
 							<li>Default parameter</li>
 							<li>Generators</li>
